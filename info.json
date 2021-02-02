@@ -1,0 +1,21 @@
+{
+  "name": "Jessica Embury",
+  "linkedin": "https://www.linkedin.com/in/jessica-embury-49027b204/",
+  "github": "dollydoxyfree",
+  "email": "emburyjessica@gmail.com",
+  "proficientTechnologies": [
+      "Javascript",
+      "React"
+  ],
+  "otherSkills": [
+      "Charcoal Drawing",
+      "Cooking",
+      "Boxing",
+      "Hiking",
+      "Shennanigans"
+  ],
+  "Pets":[
+    "Otto, Black Lab/German Shephard",
+    "Molly, Heeler/mix"
+  ]
+}
